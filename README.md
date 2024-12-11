@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Javascript,React,Python**
 
-- 📄 Know about my experiences [file:///C:/Users/Amar/Downloads/amar.pdf](file:///C:/Users/Amar/Downloads/amar.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amar08937377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amar08937377" height="30" width="40" /></a>
