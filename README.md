@@ -5,9 +5,7 @@
 
 - 💬 Ask me about **Javascript,React,Python**
 
-- 📫 How to reach me **amar**
-
-- 📄 Know about my experiences [amarresume/01.com](amarresume/01.com)
+- 📄 Know about my experiences [file:///C:/Users/Amar/Downloads/amar.pdf](file:///C:/Users/Amar/Downloads/amar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
