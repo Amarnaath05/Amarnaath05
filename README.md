@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amarnaath</h1>
 <h3 align="center">A Passionate Developer</h3>
 
-- 👨‍💻 All of my projects are available at [amarportfolio.com/1](amarportfolio.com/1)
+- 👨‍💻 My Portfolio [amarportfolio-01/](amarportfolio-01/)
 
 - 💬 Ask me about **Javascript,React,Python**
+
+- 📫 How to reach me **amar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
