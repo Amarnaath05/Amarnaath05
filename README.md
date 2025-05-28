@@ -80,6 +80,4 @@ I'm **Amarnaath P**, a passionate developer specializing in **Front-End Technolo
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=150&section=footer" />
-</p>
+
