@@ -1,61 +1,42 @@
-<h1 align="center">Hi 👋, I'm Amarnaath P</h1>
-<h3 align="center">Front-End Developer | MERN Stack Enthusiast | Passionate about building clean & modern UIs</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=150&section=header&text=Hi,%20I'm%20Amarnaath%20P&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</p>
+
+<h2 align="center">Front-End Developer | MERN Stack Enthusiast | UI/UX Designer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amarnaath-p-99617426a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amarnaathamarnaath12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💼 About Me
 
-- 🔭 I’m currently working on: **Freelance Marketplace MERN Project**
-- 🌱 I’m learning: **Advanced UI/UX design, MongoDB Aggregation, TypeScript**
-- 💬 Ask me about: **React.js, Tailwind CSS, Vite, JavaScript, and front-end architecture**
-- 👨‍🎓 Recent graduate and an aspiring **MERN Stack / Front-End Developer**
-- ⚡ Fun fact: I love designing sleek dashboards and optimizing user flows!
+I’m a highly motivated and detail-oriented front-end developer with a strong foundation in building responsive, accessible, and scalable web applications. I specialize in the **MERN Stack** and enjoy blending logic with design to create seamless user experiences.
 
----
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,tailwind,figma,vite,bootstrap,git,github,vercel" />
-</p>
+- 🎯 Currently working on: Freelance Marketplace Platform using MERN Stack  
+- ✨ Passionate about: UI/UX Design, Clean Code Practices, Modern Web Apps  
+- 📍 Based in: Coimbatore, India  
+- 🚀 Goal: To contribute to dynamic, real-world projects and grow as a full-stack developer  
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Core Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amarnaath&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarnaath&theme=radical" width="48%" />
-</p>
-
----
-
-### 🔥 Top Projects
-
-- 🛒 [**React Book Store App**](https://github.com/Amarnaath/bookstore-frontend) – Full-stack MERN book store application with CRUD features
-- 📈 [**Social Media Analytics App**](https://github.com/Amarnaath/social-analytics) – React + API-based dashboard for user/post/comment insights
-- 💼 [**Freelance Marketplace**](https://github.com/Amarnaath/freelance-marketplace) – Role-based platform with dynamic routing and custom UI/UX
-
----
-
-### 📫 Let's Connect!
-
-- 💼 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 📧 Email: [amarnaathamarnaath12@gmail.com](mailto:amarnaathamarnaath12@gmail.com)
-- 📱 LinkedIn: [linkedin.com/in/amarnaath-p-99617426a](https://www.linkedin.com/in/amarnaath-p-99617426a/)
-
----
-
-> *"Build user-first products. Design for clarity. Code for scale."*
+```yaml
+Languages      : JavaScript (ES6+), HTML5, CSS3
+Frontend       : React.js, Tailwind CSS, Bootstrap, Vite
+Backend        : Node.js, Express.js
+Database       : MongoDB
+Tools & Tech   : Git, GitHub, EmailJS, Postman, VS Code
+UI/UX Design   : Figma, Canva
+Deployment     : Netlify, Vercel
