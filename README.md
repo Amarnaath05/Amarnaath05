@@ -1,16 +1,15 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0E8AC8&center=true&vCenter=true&width=435&lines=Hi+I'm+Amarnaath+P;Front-End+%7C+MERN+%7C+Java+Developer;Crafting+Clean+and+Functional+UIs" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=140&section=header&text=Amarnaath%20P&fontSize=40&fontAlign=50&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20Java%20%7C%20UI%2FUX&descAlign=50&descSize=18" alt="Amarnaath P Banner" />
 </p>
 
 <h2 align="center">🚀 MERN Stack Developer | Java Programmer | UI/UX Enthusiast</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amarnaath-p-99617426a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/amarnaath-p-99617426a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:amarnaathamarnaath12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:amarnaathamarnaath12@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -18,12 +17,13 @@
 
 ### 👋 About Me
 
-I'm **Amarnaath P**, a passionate developer specializing in **Front-End Technologies**, **MERN Stack**, and **Java-based applications**. I love building intuitive, performant, and visually appealing digital experiences. I’m always exploring new tech and improving my design-to-development workflow.
+I’m **Amarnaath P**, a passionate developer focused on building scalable, performant, and user-friendly web applications.  
+With experience in **MERN stack**, **Java programming**, and **UI/UX design**, I aim to create seamless digital experiences that solve real-world problems.
 
-- 🏗️ Currently Building: A Freelance Marketplace Platform  
-- 🎯 Goal: To create scalable, production-ready web apps with a focus on performance and UX  
-- 🧩 Passionate about: Java | React | UI/UX | Problem Solving | Scalable APIs  
-- 🌍 Location: Coimbatore, India  
+- 🏗️ Currently working on a **Freelance Marketplace Platform**  
+- 🎯 Focused on clean code, responsive design, and intuitive user interfaces  
+- 🌍 Based in Coimbatore, India  
+- 💡 Always eager to learn new technologies and improve my craft
 
 ---
 
@@ -31,55 +31,55 @@ I'm **Amarnaath P**, a passionate developer specializing in **Front-End Technolo
 
 #### 💻 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite,figma" alt="Frontend Technologies" />
 </p>
 
 #### ⚙️ Back-End & Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,spring,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,spring,python,mysql" alt="Backend and Languages" />
 </p>
 
 #### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode" alt="Tools & Platforms" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🧩 **Freelance Marketplace – MERN Stack**
-> Full-stack web platform for freelancers and clients. Supports secure login, role-based dashboards, job postings, bidding, and service exploration.
+#### 🧩 Freelance Marketplace – MERN Stack  
+A full-stack platform enabling freelancers and clients to connect, post jobs, and collaborate with role-based dashboards and secure authentication.
 
-#### 📚 **React Book Store**
-> Dynamic CRUD book management system with category filters, dark mode toggle, and real-time search.
+#### 📚 React Book Store  
+A CRUD app with category filters, real-time search, and dark mode, built with React and modern UI frameworks.
 
-#### 📊 **Social Media Analytics Dashboard**
-> Responsive dashboard using React Vite and REST APIs to display user insights, trends, and engagement metrics.
+#### 📊 Social Media Analytics Dashboard  
+A responsive React Vite dashboard visualizing user engagement and trending posts with clean UI and API integrations.
 
-#### 🏦 **Online Banking System**
-> Java-based real-time banking simulation focused on clean architecture and secure transaction flows.
+#### 🏦 Online Banking System  
+Java-based real-time banking system focusing on secure transactions and clean architecture.
 
 ---
 
-### 🧠 My Development Principles
+### 🧠 Development Principles
 
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> “Simplicity is the soul of efficiency.” — Austin Freeman
 
-- ✅ Clean, modular, reusable code  
-- ✅ Mobile-first & responsive design  
-- ✅ Consistent UI/UX and smooth navigation  
-- ✅ API integration and error handling best practices  
+- Writing clean, modular, and reusable code  
+- Mobile-first, responsive design for all devices  
+- Focus on smooth UX and consistent UI design  
+- Robust API integration with error handling
 
 ---
 
 ### 📞 Contact Me
 
-- 📧 Email: [amarnaathamarnaath12@gmail.com](mailto:amarnaathamarnaath12@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/amarnaath-p-99617426a](https://www.linkedin.com/in/amarnaath-p-99617426a)
+- ✉️ Email: [amarnaathamarnaath12@gmail.com](mailto:amarnaathamarnaath12@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/amarnaath-p-99617426a](https://www.linkedin.com/in/amarnaath-p-99617426a/)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0E8AC8&height=3&width=100%25" alt="footer divider" />
 </p>
