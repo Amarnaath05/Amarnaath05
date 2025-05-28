@@ -1,17 +1,61 @@
-<h1 align="center">Hi 👋, I'm Amarnaath</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h1 align="center">Hi 👋, I'm Amarnaath P</h1>
+<h3 align="center">Front-End Developer | MERN Stack Enthusiast | Passionate about building clean & modern UIs</h3>
 
-- 👨‍💻 My Portfolio [amarportfolio-01/](amarportfolio-01/)
-
-- 💬 Ask me about **Javascript,React,Python**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amar08937377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amar08937377" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amarnaath-pechimuthu-99617426a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b6qjv5imisocafix%2fhuiyzw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amarnaath-pechimuthu-99617426a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b6qjv5imisocafix%2fhuiyzw%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/accounts/login/?next=%2fproud.mp%2ffeed%2f&source=profile_feed_tab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/accounts/login/?next=%2fproud.mp%2ffeed%2f&source=profile_feed_tab" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/amarnaathamar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amarnaathamar/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amarnaath-p-99617426a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:amarnaathamarnaath12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=flat-square" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on: **Freelance Marketplace MERN Project**
+- 🌱 I’m learning: **Advanced UI/UX design, MongoDB Aggregation, TypeScript**
+- 💬 Ask me about: **React.js, Tailwind CSS, Vite, JavaScript, and front-end architecture**
+- 👨‍🎓 Recent graduate and an aspiring **MERN Stack / Front-End Developer**
+- ⚡ Fun fact: I love designing sleek dashboards and optimizing user flows!
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,tailwind,figma,vite,bootstrap,git,github,vercel" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amarnaath&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarnaath&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🔥 Top Projects
+
+- 🛒 [**React Book Store App**](https://github.com/Amarnaath/bookstore-frontend) – Full-stack MERN book store application with CRUD features
+- 📈 [**Social Media Analytics App**](https://github.com/Amarnaath/social-analytics) – React + API-based dashboard for user/post/comment insights
+- 💼 [**Freelance Marketplace**](https://github.com/Amarnaath/freelance-marketplace) – Role-based platform with dynamic routing and custom UI/UX
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: [amarnaathamarnaath12@gmail.com](mailto:amarnaathamarnaath12@gmail.com)
+- 📱 LinkedIn: [linkedin.com/in/amarnaath-p-99617426a](https://www.linkedin.com/in/amarnaath-p-99617426a/)
+
+---
+
+> *"Build user-first products. Design for clarity. Code for scale."*
