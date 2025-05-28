@@ -1,16 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0E8AC8&center=true&vCenter=true&width=435&lines=Hi+I'm+Amarnaath+P;Front-End+%7C+MERN+%7C+Java+Developer;Crafting+Clean+and+Functional+UIs" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0E8AC8&height=140&section=header&text=Amarnaath%20P&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Front-End%20%7C%20MERN%20%7C%20Java%20Developer&descAlign=50&descSize=18" alt="Amarnaath P Banner" />
 </p>
 
 <h2 align="center">🚀 MERN Stack Developer | Java Programmer | UI/UX Enthusiast</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amarnaath-p-99617426a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:amarnaathamarnaath12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:amarnaathamarnaath12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
 
@@ -31,17 +31,17 @@ I'm **Amarnaath P**, a passionate developer specializing in **Front-End Technolo
 
 #### 💻 Front-End
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite,figma" alt="Front-End Technologies" />
 </p>
 
 #### ⚙️ Back-End & Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,spring,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,spring,python,mysql" alt="Back-End & Languages" />
 </p>
 
 #### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode" alt="Tools & Platforms" />
 </p>
 
 ---
